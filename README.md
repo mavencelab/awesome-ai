@@ -27,6 +27,7 @@
 | pentestagent | AI agent framework for black-box security testing | 1.7K | [GitHub](https://github.com/GH05TCREW/pentestagent) |
 | NeuroSploit | AI-powered pentest framework | 895 | [GitHub](https://github.com/CyberSecurityUP/NeuroSploit) |
 | Nebula | AI-powered pentest assistant | 888 | [GitHub](https://github.com/berylliumsec/nebula) |
+| Darkmoon | Open source (GPL-3.0) autonomous AI pentest platform (web, API, AD, K8s) | - | [GitHub](https://github.com/ASCIT31/Dark-Moon) |
 | Strix | Open-source AI hackers | - | [GitHub](https://github.com/usestrix/strix) |
 | EVA | AI-assisted pentesting agent | 381 | [GitHub](https://github.com/ARCANGEL0/EVA) |
 | Pentest-Agent | LLM-driven pentest framework | 117 | [GitHub](https://github.com/nbshenxm/pentest-agent) |
